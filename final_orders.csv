@@ -1,0 +1,5 @@
+order_id,customer_name,city,product_name,quantity,price,status,total_amount
+O101,Rahul,Hyderabad,Laptop,1,50000,Delivered,50000
+O102,Priya,Bangalore,Mobile,2,20000,Delivered,40000
+O103,Amit,Chennai,Headphones,3,2000,Pending,6000
+O104,Rahul,Hyderabad,Keyboard,2,1500,Delivered,3000

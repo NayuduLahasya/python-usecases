@@ -1,0 +1,6 @@
+order_id,customer_id,product_id,quantity,status
+O101,C101,P101,1,Delivered
+O102,C102,P102,2,Delivered
+O103,C103,P103,3,Pending
+O104,C101,P104,2,Delivered
+O105,C105,P102,1,Delivered
